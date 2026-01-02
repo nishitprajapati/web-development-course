@@ -1,0 +1,8 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+/* Optional: This removes the gaps between the cells */
+table {
+  border-collapse: collapse;
+}
